@@ -1,10 +1,17 @@
 Sketch:
 ------------------------------------------------------------------
-
+- global vars: font, colors, font-color, 
+- overview:
+  <main>
+    <figure>
+    <section details>
+    <nav>
+  </main>
 
 
 TO DOs:
 ------------------------------------------------------------------
+- fix safesearch issue on firefox
 ## before coding:
 - sketch the layout, first using mobile version
 
