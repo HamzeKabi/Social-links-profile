@@ -93,6 +93,13 @@ nav {
   height: 2.65rem;
   border-radius: 0.7rem;
   color: var(--White);
+  cursor: pointer;
+  transition: color, background-color 0.5s;
+}
+
+[id*="link-"]:hover {
+  background-color: var(--Green);
+  color: var(--black);
 }
 
 nav > a:last-child {
