@@ -36,8 +36,8 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--Dark-Grey);
-  width: 23.6rem;
-  max-width: 90vw;
+  width: 23.75rem;
+  max-width: 87.2vw;
   margin-left: auto;
   margin-right: auto;
   border-radius: 0.7rem;
@@ -49,12 +49,12 @@ body {
   height: 5.375rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 1.75rem;
+  margin-top: 1.85rem;
 }
 
 .user-details {
   text-align: center;
-  margin-top: 1.875rem;
+  margin-top: 1.975rem;
 }
 
 .name {
@@ -63,15 +63,15 @@ body {
 
 .location {
   color: var(--Green);
-  margin-top: 1rem;
+  margin-top: 1.1rem;
   font-size: 0.9rem;
 }
 
 .profession {
-  margin-top: 1.875rem;
+  margin-top: 1.975rem;
   color: var(--White);
   font-size: 0.85rem;
-  margin-bottom: 1.438rem;
+  margin-bottom: 1.975rem;
 }
 
 nav {
