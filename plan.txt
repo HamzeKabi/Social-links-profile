@@ -1,0 +1,42 @@
+Sketch:
+------------------------------------------------------------------
+
+
+
+TO DOs:
+------------------------------------------------------------------
+## before coding:
+- sketch the layout, first using mobile version
+
+## during coding:
+- semantic html, like this link: https://th.bing.com/th/id/OIP._o8pxD6rYSNzwA5sEZbHVwHaIO?rs=1&pid=ImgDetMain
+- use main tag
+- declare language
+- use these two:
+	<meta name="author" content="John Doe">
+	<meta name="description" content="Free Web tutorials">
+
+- use css variables, especially for colors in :root
+- use the following code for border-box and reset
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Figtree;
+}
+- use flexbox or grid for web responsiveness
+- use media queries if needed(implement media breakpoints if needed) https://www.w3schools.com/Css/css_rwd_mediaqueries.asp
+- use tags as their intended usage, like using button instead of div, alt text for images
+- use width:fit-content if needed
+- use level one heading
+- use modular css for DRY:
+	variables
+	mixin
+	combine selectors
+
+
+## after coding:
+check html and css files with https://validator.w3.org/
+
+INFOs:
+------------------------------------------------------------------
