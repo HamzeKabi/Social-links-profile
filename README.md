@@ -25,9 +25,8 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![https://github.com/HamzeKabi/Social-links-profile/blob/2cc9d1e154467e734a9697748c3dc0df4d1b6cfd/social%20links%20profile%20-%20desktop%20version%20screenshot%20-%20frontendmentor.html.png](desktop version screenshot)
-![https://github.com/HamzeKabi/Social-links-profile/blob/2cc9d1e154467e734a9697748c3dc0df4d1b6cfd/social%20links%20profile%20-%20mobile%20version%20screenshot%20-%20frontendmentor.html.png](mobile version screenshot)
+![desktop version screenshot](https://github.com/HamzeKabi/Social-links-profile/blob/2cc9d1e154467e734a9697748c3dc0df4d1b6cfd/social%20links%20profile%20-%20desktop%20version%20screenshot%20-%20frontendmentor.html.png)
+![mobile version screenshot](https://github.com/HamzeKabi/Social-links-profile/blob/2cc9d1e154467e734a9697748c3dc0df4d1b6cfd/social%20links%20profile%20-%20mobile%20version%20screenshot%20-%20frontendmentor.html.png)
 
 ### Links
 
